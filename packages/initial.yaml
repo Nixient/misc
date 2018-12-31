@@ -1,0 +1,10 @@
+applications:
+  - vim-enhanced
+  - git
+  - google-chrome
+  - python2
+  - python3
+  - python2-pip
+  - python3-pip
+  - vscode
+  

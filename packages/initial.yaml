@@ -7,4 +7,7 @@ applications:
   - python2-pip
   - python3-pip
   - vscode
-  
+  - hiri
+  - guake
+  - powershell-core
+        - vmware.powercli
